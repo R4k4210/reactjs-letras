@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Buscador de canciones que consulta 2 API's al mismo tiempo utilizando Prmise.all
+Letras: https://api.lyrics.ovh
+Info Banda: https://theaudiodb.com
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
