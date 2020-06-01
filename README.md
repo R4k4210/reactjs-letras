@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Buscador de canciones que consulta 2 API's al mismo tiempo utilizando Prmise.all
-Letras: https://api.lyrics.ovh
+Buscador de canciones que consulta 2 API's al mismo tiempo utilizando Prmise.all <br />
+Letras: https://api.lyrics.ovh <br />
 Info Banda: https://theaudiodb.com
 
 ## Available Scripts
