@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Descripción del Proyecto
 
 Buscador de canciones que consulta 2 API's al mismo tiempo utilizando Prmise.all <br />
 Letras: https://api.lyrics.ovh <br />
